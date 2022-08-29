@@ -7,7 +7,7 @@
     width: 95%;
     padding: 20px;
 }
- /* header */
+ /* HEADER */
  header{
     height: 100px;
     background-color: rgb(7, 164, 216);
@@ -19,3 +19,21 @@
     height: 40px;
     margin-top: 50px;
  }
+ /* /HEADER */
+
+ /* MAIN */
+ /* section1 */
+ h1{
+    font-size: 35px;
+ }
+ .scritto_da{
+    color: #808080;
+ }
+ .ente{
+    color: #00ffff;
+ }
+ .data{
+    font-size: 10px;
+ }
+ /* /section1 */
+ /* /MAIN */
