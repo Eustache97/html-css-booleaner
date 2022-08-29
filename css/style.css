@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    width: 95%;
+    padding: 20px;
+}
+ /* header */
+ header{
+    height: 100px;
+    background-color: rgb(7, 164, 216);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+ }
+ #logo{
+    width: 200px;
+    height: 40px;
+    margin-top: 50px;
+ }
