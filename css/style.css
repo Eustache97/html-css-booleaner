@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 .container{
-    width: 95%;
-    padding: 20px;
+    width: 100%;
+    padding: 15px;
 }
  /* HEADER */
  header{
@@ -28,12 +28,17 @@
  }
  .scritto_da{
     color: #808080;
+    margin-bottom: 15px;
  }
- .ente{
+ .info-ente{
     color: #00ffff;
  }
- .data{
+
+ .info-size{
     font-size: 10px;
  }
  /* /section1 */
+ /* section2 *
+ 
+
  /* /MAIN */
