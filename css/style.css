@@ -10,21 +10,20 @@
  /* HEADER */
  header{
     height: 100px;
-    background-color: rgb(7, 164, 216);
+    background-color: #20b2aa;
     background-image: url(../img/pattern.png);
     background-size: contain;
  }
  #logo{
-    width: 200px;
-    height: 40px;
-    margin-top: 50px;
+    width: 20%;
+    margin-top: 30px;
  }
  /* /HEADER */
 
  /* MAIN */
  /* section1 */
  h1{
-    font-size: 35px;
+    font-size: 45px;
  }
  .scritto_da{
     color: #808080;
@@ -37,8 +36,38 @@
  .info-size{
     font-size: 10px;
  }
+ #berners1{
+    width: 52%;
+ }
+ #berners2{
+    width: 44%;
+ }
  /* /section1 */
- /* section2 *
- 
+ /* section2 */
+ p span{
+    background-color: #ffff00;
+ }
+ p{
+    margin-top: 15px;
+    margin-bottom: 20px;
+ }
 
+ ul{
+    padding-left: 15px;
+    margin-bottom: 20px;
+ }
+ 
+ .larg-cella1 , .larg-cella2{
+   width: 250px;
+ }
+ thead {
+    text-align: left;
+ background-color: #629df5;
+ color: #ffffff;
+ }
+ .riga-colorata{
+    background-color: #7fffd4;
+    border
+ }
+ /* /section2 */
  /* /MAIN */
