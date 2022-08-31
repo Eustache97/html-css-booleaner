@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 .container{
-    width: 100%;
-    padding: 15px;
+    width: 97%;
+   margin: 0 auto;
 }
  /* HEADER */
  header{
