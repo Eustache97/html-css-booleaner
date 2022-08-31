@@ -12,7 +12,7 @@
     height: 100px;
     background-color: #20b2aa;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 30%;
  }
  #logo{
     width: 20%;
@@ -57,16 +57,20 @@
     margin-bottom: 20px;
  }
  
- .larg-cella1 , .larg-cella2{
-   width: 250px;
+ table{
+   border-collapse: collapse;
+ }
+  table tr.row:nth-child(odd){
+    background-color: #7fffd4;
  }
  thead {
     text-align: left;
  background-color: #629df5;
  color: #ffffff;
  }
- .riga-colorata{
-    background-color: #7fffd4;
+ 
+ .large-col{
+   width: 50%;
  }
  /* /section2 */
  /* /MAIN */
@@ -81,9 +85,12 @@
     height: 150px;
     margin-top: 10px;
     margin-bottom: 10px;
-    color:#ffffff;
     background-size: cover;
     background-position: center;
+ }
+ .foot-ancor{
+   text-decoration: none;
+   color: #d3d3d3;
  }
  #divfooter1{
     background-image: url(../img/monitor.jpg);
